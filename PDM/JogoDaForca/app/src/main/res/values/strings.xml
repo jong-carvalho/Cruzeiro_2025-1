@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jogo da Forca</string>
+    <string name="guess_letter_hint">Digite uma letra</string>
+    <string name="try_button_text">Tentar</string>
+    <string name="attempts_label">Tentativas: %1$d</string>
+    <string name="win_message">Você Venceu!</string>
+    <string name="lose_message">Você Perdeu! A palavra era %1$s</string>
+    <string name="already_guessed">Você já tentou essa letra!</string>
+    <string name="input_invalid">Por favor, digite apenas uma letra!</string>
+    <string name="word_placeholder">Palavra oculta</string>
+</resources>

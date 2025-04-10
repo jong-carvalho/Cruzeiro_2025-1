@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JoKenPo.iml" filepath="$PROJECT_DIR$/.idea/JoKenPo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JoKenPo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JoKenPo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JoKenPo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JoKenPo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JoKenPo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JoKenPo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JoKenPo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JoKenPo.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

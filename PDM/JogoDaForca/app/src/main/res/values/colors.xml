@@ -1,0 +1,9 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorSecondary">#03DAC5</color>
+    <color name="colorBackground">#AE88EB</color>
+    <color name="colorText">#35048C</color>
+    <color name="colorTextVictory">#388E3C</color>
+    <color name="colorTextDefeat">#D32F2F</color>
+    <color name="colorTextNormal">#000000</color>
+</resources>
